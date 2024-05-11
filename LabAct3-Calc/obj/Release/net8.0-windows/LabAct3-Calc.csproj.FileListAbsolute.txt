@@ -1,0 +1,17 @@
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\LabAct3-Calc.exe
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\LabAct3-Calc.deps.json
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\LabAct3-Calc.runtimeconfig.json
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\LabAct3-Calc.dll
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\LabAct3-Calc.pdb
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3_Calc.frmCalculator.resources
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3_Calc.Properties.Resources.resources
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.csproj.GenerateResource.cache
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.AssemblyInfoInputs.cache
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.AssemblyInfo.cs
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.csproj.CoreCompileInputs.cache
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.dll
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\refint\LabAct3-Calc.dll
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.pdb
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\LabAct3-Calc.genruntimeconfig.cache
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\obj\Release\net8.0-windows\ref\LabAct3-Calc.dll

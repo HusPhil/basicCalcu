@@ -1,0 +1,5 @@
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\publish\LabAct3-Calc.exe
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\publish\LabAct3-Calc.dll
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\publish\LabAct3-Calc.deps.json
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\publish\LabAct3-Calc.runtimeconfig.json
+C:\Users\husph\source\repos\LabAct3-Calc\LabAct3-Calc\bin\Release\net8.0-windows\publish\LabAct3-Calc.pdb
